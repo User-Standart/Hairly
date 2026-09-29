@@ -1,0 +1,12 @@
+[
+  {
+    "relation": ["delegate_permission/common.handle_all_urls"],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "br.app.salone",
+      "sha256_cert_fingerprints": [
+        "98:ED:7F:E6:9E:24:69:3B:2A:91:60:E3:7E:22:B6:00:43:CE:03:6F:73:6F:4F:B1:A1:51:AB:DF:39:42:59:DD"
+      ]
+    }
+  }
+]

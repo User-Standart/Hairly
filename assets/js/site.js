@@ -1,4 +1,4 @@
-// Hairly — interações do site (sem dependências).
+// Salone — interações do site (sem dependências).
 
 const PRECO_MENSAL = 29.9;
 const brl = (v) => v.toLocaleString("pt-BR", { style: "currency", currency: "BRL", maximumFractionDigits: 0 });
